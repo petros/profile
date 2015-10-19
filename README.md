@@ -1,7 +1,7 @@
 Profile
 =======
 
-This is my most up to date profile information.
+This is my most up to date [profile](http://git.io/petros-profile) information.
 
 ### Bio
 
